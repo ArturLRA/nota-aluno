@@ -1,14 +1,3 @@
-// Sistema de Cadastro, Cálculo de Média e Verificação de Aprovação de Aluno
-
-// Crie um sistema em JavaScript para gerenciar as notas de um aluno, calcular a sua média e determinar se ele foi aprovado ou não. 
-// Este sistema deverá ser composto pelas seguintes funções:
-
-// cadastrarNota(aluno, nota)
-// calcularMedia(aluno)
-// verificarAprovacao(media)
-// exibirResultado(aluno, media, aprovado)
-
-
 var aluno = prompt("Digite nome do aluno: ")
 var notas = []
 
